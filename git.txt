@@ -1,1 +1,3 @@
 Now we know the purpose of using git.
+
+This is a second line.
